@@ -1,2 +1,5 @@
-http://guarblog.ru/* https://ru.dpashutskii.com/*
-https://guarblog.ru/* https://ru.dpashutskii.com/*
+# Redirect domain aliases to primary domain
+https://guarblog.ru/* https://ru.dpashutskii.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://ru-dpashutskii.netlify.com/* https://ru.dpashutskii.com/:splat 301!
