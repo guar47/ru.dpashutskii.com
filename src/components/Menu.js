@@ -71,7 +71,11 @@ const Menu = () => {
             </Link>
           </li>
           <li>
-            <a rel="noopener noreferrer" target="_blank">
+            <a
+              href="https://github.com/guar47"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               <img src={githubIcon} />
             </a>
           </li>
