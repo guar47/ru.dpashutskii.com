@@ -17,6 +17,7 @@ const Template = ({ children }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href={favicon} />
         <script src="https://cdn.embedly.com/widgets/platform.js" type="text/javascript"/>
+        <meta name="yandex-verification" content="e2a93e320e10906e" />
       </Helmet>
 
       <ThemeProvider theme={theme}>
