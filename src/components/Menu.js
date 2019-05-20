@@ -73,7 +73,7 @@ const Menu = () => {
           </li>
           <li>
             <a
-              href="https://tlgg.ru/another_way_out"
+              href="https://t.me/another_way_out"
               rel="noopener noreferrer"
               target="_blank"
             >
