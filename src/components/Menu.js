@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import githubIcon from '../images/github-icon.png'
 import linkedinIcon from '../images/linkedin-icon.png'
 import twitterIcon from '../images/twitter-icon.png'
+import telegramIcon from '../images/Telegram_logo.svg'
 
 const Header = styled.header`
   background: ${props => props.theme.colors.base};
@@ -69,6 +70,15 @@ const Menu = () => {
             <Link to="/about/" activeStyle={activeLinkStyle}>
               About
             </Link>
+          </li>
+          <li>
+            <a
+              href="https://tlgg.ru/another_way_out"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <img src={telegramIcon} />
+            </a>
           </li>
           <li>
             <a
