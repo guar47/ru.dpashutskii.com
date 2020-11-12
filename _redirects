@@ -1,4 +1,3 @@
 # Redirect domain aliases to primary domain
 https://ru.dpashutskii.com/* https://dpashutskii.com/ru/:splat 301!
-http://ru.dpashutskii.com/* http://dpashutskii.com/ru/:splat 301!
 https://guarblog.ru/* https://dpashutskii.com/ru/:splat 301!
